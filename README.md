@@ -78,4 +78,8 @@ Netlify 주소 : https://www.netlify.com/
 netlify 사용법을 모른다면? : https://youtu.be/WJtetccrv3o
 github 사용법을 모른다면? : https://youtu.be/lelVripbt2M
 
-00
+리덕스의 단점을 보완하여 비동기처리의 스테이트 스토리지를 관리하는 셈플 
+- "edux-thunk"플 추가
+- "redux-devtools-extension"를 추가하고 크롬 확장자를 설치
+
+
